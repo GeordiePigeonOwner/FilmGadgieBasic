@@ -102,7 +102,16 @@
     <Content Include="img\icons\reward.svg" />
     <Content Include="img\icons\technology.svg" />
     <Content Include="img\john.jpg" />
+    <Content Include="img\me.JPG" />
+    <Content Include="img\portfolio\BlowHeadOff.png" />
+    <Content Include="img\portfolio\dontSteal.png" />
+    <Content Include="img\portfolio\FaceSwap.png" />
+    <Content Include="img\portfolio\noMoon.png" />
+    <Content Include="img\portfolio\NotCrossRoad.png" />
+    <Content Include="img\portfolio\note7Exploding.png" />
     <Content Include="img\portfolio\overlay.png" />
+    <Content Include="img\portfolio\StarLord.png" />
+    <Content Include="img\portfolio\TitlesFrame.png" />
     <Content Include="img\portfolio\video-preview-1.jpg" />
     <Content Include="img\portfolio\video-preview-2.jpg" />
     <Content Include="img\portfolio\video-preview-3.jpg" />
