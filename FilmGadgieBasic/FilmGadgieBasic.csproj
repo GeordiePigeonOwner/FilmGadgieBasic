@@ -103,9 +103,13 @@
     <Content Include="img\icons\technology.svg" />
     <Content Include="img\john.jpg" />
     <Content Include="img\me.JPG" />
+    <Content Include="img\portfolio\Bedtime1.png" />
+    <Content Include="img\portfolio\Bedtime2.png" />
     <Content Include="img\portfolio\BlowHeadOff.png" />
     <Content Include="img\portfolio\dontSteal.png" />
     <Content Include="img\portfolio\FaceSwap.png" />
+    <Content Include="img\portfolio\FlashBeer.png" />
+    <Content Include="img\portfolio\KickFence.png" />
     <Content Include="img\portfolio\noMoon.png" />
     <Content Include="img\portfolio\NotCrossRoad.png" />
     <Content Include="img\portfolio\note7Exploding.png" />

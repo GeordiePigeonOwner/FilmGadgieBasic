@@ -32,7 +32,7 @@ $(document).ready(function(){
 	//Start video adaptation
 		//Set main video
 			//window.MAIN_VIDEO_URL = '<iframe id="video" src="https://player.vimeo.com/video/47911018" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
-        window.MAIN_VIDEO_URL = '<iframe  width="1920" height="1080" id="video" src="https://www.youtube.com/embed/GrqOHBShvzM" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
+        window.MAIN_VIDEO_URL = '<iframe height="1080" src="https://www.youtube.com/embed/XripHsTgjWM" frameborder="0" allowfullscreen></iframe>';
 			$('header').html( window.MAIN_VIDEO_URL );
 
 		//Get video container width
