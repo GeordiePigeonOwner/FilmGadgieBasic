@@ -23,6 +23,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -89,6 +90,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="google31f0ee2fe0e381fd.html" />
     <Content Include="img\client-1.jpg" />
     <Content Include="img\client-2.jpg" />
     <Content Include="img\client-3.jpg" />
@@ -103,14 +105,24 @@
     <Content Include="img\icons\technology.svg" />
     <Content Include="img\john.jpg" />
     <Content Include="img\me.JPG" />
+    <Content Include="img\portfolio\1stEver Thumb Final.png" />
+    <Content Include="img\portfolio\BadDad.png" />
     <Content Include="img\portfolio\BlowHeadOff.png" />
+    <Content Include="img\portfolio\Demon.png" />
+    <Content Include="img\portfolio\DoctorStrange.png" />
+    <Content Include="img\portfolio\DoctorStrangeThumb.png" />
     <Content Include="img\portfolio\dontSteal.png" />
+    <Content Include="img\portfolio\EyeSneeze.png" />
     <Content Include="img\portfolio\FaceSwap.png" />
+    <Content Include="img\portfolio\FusRoDah.png" />
+    <Content Include="img\portfolio\GOT1.png" />
     <Content Include="img\portfolio\noMoon.png" />
     <Content Include="img\portfolio\NotCrossRoad.png" />
     <Content Include="img\portfolio\note7Exploding.png" />
     <Content Include="img\portfolio\overlay.png" />
+    <Content Include="img\portfolio\SpiderManRoof.png" />
     <Content Include="img\portfolio\StarLord.png" />
+    <Content Include="img\portfolio\ThorHammer.png" />
     <Content Include="img\portfolio\TitlesFrame.png" />
     <Content Include="img\portfolio\video-preview-1.jpg" />
     <Content Include="img\portfolio\video-preview-2.jpg" />

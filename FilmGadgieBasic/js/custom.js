@@ -32,12 +32,12 @@ $(document).ready(function(){
 	//Start video adaptation
 		//Set main video
 			//window.MAIN_VIDEO_URL = '<iframe id="video" src="https://player.vimeo.com/video/47911018" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
-    window.MAIN_VIDEO_URL = '<iframe width="560" height="315" src="https://www.youtube.com/embed/GrqOHBShvzM" frameborder="0" allowfullscreen></iframe>';
+        window.MAIN_VIDEO_URL = '<iframe width="560" height="315" src="https://www.youtube.com/embed/gXD87s_Vn64" frameborder="0" allowfullscreen></iframe>';
 			$('header').html( window.MAIN_VIDEO_URL );
 
 		//Get video container width
-            window.CURRENT_VIDEO_ID = 'GrqOHBShvzM';
-			window.CURRENT_VIDEO_SOURCE = 'youtuve';
+            window.CURRENT_VIDEO_ID = 'gXD87s_Vn64';
+			window.CURRENT_VIDEO_SOURCE = 'youtube';
 
 
 			if( window.CURRENT_VIDEO_SOURCE=='vimeo' ){
